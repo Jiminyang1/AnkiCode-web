@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo Learner",
+      "email": "demo@ankicode.dev",
+      "password": "ankicode"
+    }
+  ],
+  "problems": [
+    {
+      "id": "prob-1",
+      "leetcodeId": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "topic": "Arrays",
+      "nextReview": "2025-11-07",
+      "reviewIntervalDays": 2,
+      "userId": 1
+    },
+    {
+      "id": "prob-2",
+      "leetcodeId": 102,
+      "title": "Binary Tree Level Order Traversal",
+      "difficulty": "Medium",
+      "topic": "Trees",
+      "nextReview": "2025-11-06",
+      "reviewIntervalDays": 2,
+      "userId": 1
+    },
+    {
+      "id": "934bf2f7-8b21-4c70-b35c-76da1fb7d7c6",
+      "leetcodeId": 1,
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "topic": "Array",
+      "nextReview": "2025-11-07",
+      "reviewIntervalDays": 2,
+      "userId": 1
+    }
+  ],
+  "problemDetails": [
+    {
+      "id": "detail-1",
+      "problemId": "prob-1",
+      "notes": "",
+      "lastReviewed": "2025-11-05"
+    },
+    {
+      "id": "detail-2",
+      "problemId": "prob-2",
+      "notes": "Practice iterative BFS with queue to track levels.",
+      "lastReviewed": "2025-11-03"
+    },
+    {
+      "id": "f57ceeeb-be16-45c5-a142-e0621e8bf922",
+      "problemId": "934bf2f7-8b21-4c70-b35c-76da1fb7d7c6",
+      "notes": "fafda",
+      "lastReviewed": "2025-11-05"
+    }
+  ]
+}

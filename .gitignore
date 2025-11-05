@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+opcache/
+
+# Build outputs
+client/dist/
+client/.vite/
+client/.parcel-cache/
+server/dist/
+coverage/
+
+# Environment files (never commit secrets)
+.env
+*.env
+server/.env
+client/.env
+client/.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vscode-test
+*.swp
+
+# Test / cache
+.cache/
+.eslintcache
+.playwright/
+
+# Misc
+*.local

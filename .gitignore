@@ -39,3 +39,16 @@ Thumbs.db
 
 # Misc
 *.local
+
+
+#cache
+.npm-cache/
+.parcel-cache/
+.vite/
+.eslintcache
+.cache/
+.eslintcache
+.playwright/
+.cache/
+.eslintcache
+.playwright/
